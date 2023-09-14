@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Content id="38C4CC3B-D9CF-4273-82A8-D9CFF9A0082E" version="3.000" packaged="false" datalinkTemplate="true">
+	<PlayerType>SPLAYER</PlayerType>
+	<PlayerTypeVersion>3.0</PlayerTypeVersion>
+	<FileID>40ECCD48-F402-4EDE-89BB-1373CC4ED39B</FileID>
+	<Name type="String">
+		<KeyFrame time="0"><![CDATA[Prepaid Fuel]]></KeyFrame></Name>
+	<DisplayWidth type="Number">
+		<KeyFrame time="0">1920</KeyFrame></DisplayWidth>
+	<DisplayHeight type="Number">
+		<KeyFrame time="0">1080</KeyFrame></DisplayHeight>
+	<DisplayPolicy type="List">
+		<KeyFrame time="0">2</KeyFrame></DisplayPolicy>
+	<BGMusicFilePath type="File">
+		<KeyFrame time="0"><![CDATA[]]></KeyFrame></BGMusicFilePath>
+	<EventItems>
+	</EventItems>
+	<Page index="0" type="Global">
+		<Name type="String">
+			<KeyFrame time="0"><![CDATA[Page for Global Elements]]></KeyFrame></Name>
+		<BGColor type="Color">
+			<KeyFrame time="0">181;181;181</KeyFrame></BGColor>
+		<MotionPathPoints type="String">
+			<KeyFrame time="0"><![CDATA[]]></KeyFrame></MotionPathPoints>
+		<BGImageFilePath type="File">
+			<KeyFrame time="0"><![CDATA[]]></KeyFrame></BGImageFilePath>
+		<BGRatio type="List">
+			<KeyFrame time="0">1</KeyFrame></BGRatio>
+		<OrginalWidth type="Number">
+			<KeyFrame time="0">0</KeyFrame></OrginalWidth>
+		<OriginalHeight type="Number">
+			<KeyFrame time="0">0</KeyFrame></OriginalHeight>
+		<DataLinkClearAtFirstItem type="Boolean">
+			<KeyFrame time="0">False</KeyFrame></DataLinkClearAtFirstItem>
+		<DataLinkPageSync type="List">
+			<KeyFrame time="0">0</KeyFrame></DataLinkPageSync>
+		<IsVisible type="Boolean">
+			<KeyFrame time="0">True</KeyFrame></IsVisible>
+		<DurationPolicy type="List">
+			<KeyFrame time="0">0</KeyFrame></DurationPolicy>
+		<Duration type="Time">
+			<KeyFrame time="0">00:01:00.00</KeyFrame></Duration>
+		<InterpolationType type="List">
+			<KeyFrame time="0">1</KeyFrame></InterpolationType>
+		<EventEnable type="Boolean">
+			<KeyFrame time="0">True</KeyFrame></EventEnable>
+		<EffectInName type="List">
+			<KeyFrame time="0"></KeyFrame></EffectInName>
+		<EffectInDuration type="Time">
+			<KeyFrame time="0">00:00:00.00</KeyFrame></EffectInDuration>
+		<EffectInDirection type="List">
+			<KeyFrame time="0">0</KeyFrame></EffectInDirection>
+		<EffectInRepeatPolicy type="List">
+			<KeyFrame time="0">0</KeyFrame></EffectInRepeatPolicy>
+		<EffectInRepeatPeriod type="Time">
+			<KeyFrame time="0">00:00:00.00</KeyFrame></EffectInRepeatPeriod>
+		<EffectInRepeatCount type="Number">
+			<KeyFrame time="0">1</KeyFrame></EffectInRepeatCount>
+		<EventItems>
+		</EventItems>
+	</Page>
+	<Page index="1" type="Local">
+		<Name type="String">
+			<KeyFrame time="0"><![CDATA[Page1]]></KeyFrame></Name>
+		<BGColor type="Color">
+			<KeyFrame time="0">255;255;255</KeyFrame></BGColor>
+		<MotionPathPoints type="String">
+			<KeyFrame time="0"><![CDATA[]]></KeyFrame></MotionPathPoints>
+		<BGImageFilePath type="File">
+			<KeyFrame time="0"><![CDATA[]]></KeyFrame></BGImageFilePath>
+		<BGRatio type="List">
+			<KeyFrame time="0">1</KeyFrame></BGRatio>
+		<OrginalWidth type="Number">
+			<KeyFrame time="0">0</KeyFrame></OrginalWidth>
+		<OriginalHeight type="Number">
+			<KeyFrame time="0">0</KeyFrame></OriginalHeight>
+		<DataLinkClearAtFirstItem type="Boolean">
+			<KeyFrame time="0">False</KeyFrame></DataLinkClearAtFirstItem>
+		<DataLinkPageSync type="List">
+			<KeyFrame time="0">0</KeyFrame></DataLinkPageSync>
+		<IsVisible type="Boolean">
+			<KeyFrame time="0">True</KeyFrame></IsVisible>
+		<DurationPolicy type="List">
+			<KeyFrame time="0">0</KeyFrame></DurationPolicy>
+		<Duration type="Time">
+			<KeyFrame time="0">00:01:00.00</KeyFrame></Duration>
+		<InterpolationType type="List">
+			<KeyFrame time="0">1</KeyFrame></InterpolationType>
+		<EventEnable type="Boolean">
+			<KeyFrame time="0">True</KeyFrame></EventEnable>
+		<EffectInName type="List">
+			<KeyFrame time="0"></KeyFrame></EffectInName>
+		<EffectInDuration type="Time">
+			<KeyFrame time="0">00:00:00.00</KeyFrame></EffectInDuration>
+		<EffectInDirection type="List">
+			<KeyFrame time="0">0</KeyFrame></EffectInDirection>
+		<EffectInRepeatPolicy type="List">
+			<KeyFrame time="0">0</KeyFrame></EffectInRepeatPolicy>
+		<EffectInRepeatPeriod type="Time">
+			<KeyFrame time="0">00:00:00.00</KeyFrame></EffectInRepeatPeriod>
+		<EffectInRepeatCount type="Number">
+			<KeyFrame time="0">1</KeyFrame></EffectInRepeatCount>
+		<EventItems>
+		</EventItems>
+		<Element type="Image" typeid="07B2ABF8-40E0-42FC-B360-866F63E8D1EB">
+			<Name type="String">
+				<KeyFrame time="0"><![CDATA[Fuel Price]]></KeyFrame></Name>
+			<FilePath type="File">
+				<KeyFrame time="0"><![CDATA[C:\Users\p.mangiona\Front Counter Media\Fuel Price.jpg]]></KeyFrame></FilePath>
+			<MotionPathPoints type="String">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></MotionPathPoints>
+			<Layer type="Number">
+				<KeyFrame time="0">0</KeyFrame></Layer>
+			<PinnedPointNameList type="MultilineString">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></PinnedPointNameList>
+			<GlobalElement type="Boolean">
+				<KeyFrame time="0">False</KeyFrame></GlobalElement>
+			<PositionX type="RealNumber">
+				<KeyFrame time="0">0</KeyFrame></PositionX>
+			<PositionY type="RealNumber">
+				<KeyFrame time="0">0</KeyFrame></PositionY>
+			<Width type="RealNumber">
+				<KeyFrame time="0">1920</KeyFrame></Width>
+			<Height type="RealNumber">
+				<KeyFrame time="0">1080</KeyFrame></Height>
+			<Rotation type="Number">
+				<KeyFrame time="0">0</KeyFrame></Rotation>
+			<OrginalWidth type="Number">
+				<KeyFrame time="0">1920</KeyFrame></OrginalWidth>
+			<OriginalHeight type="Number">
+				<KeyFrame time="0">1080</KeyFrame></OriginalHeight>
+			<ClipLeft type="RealNumber">
+				<KeyFrame time="0">0</KeyFrame></ClipLeft>
+			<ClipRight type="RealNumber">
+				<KeyFrame time="0">0</KeyFrame></ClipRight>
+			<ClipTop type="RealNumber">
+				<KeyFrame time="0">0</KeyFrame></ClipTop>
+			<ClipBottom type="RealNumber">
+				<KeyFrame time="0">0</KeyFrame></ClipBottom>
+			<Interval type="Time">
+				<KeyFrame time="0">00:00:10.00</KeyFrame></Interval>
+			<ImageRatio type="List">
+				<KeyFrame time="0">0</KeyFrame></ImageRatio>
+			<Reflection type="List">
+				<KeyFrame time="0">0</KeyFrame></Reflection>
+			<Opacity type="Number">
+				<KeyFrame time="0">100</KeyFrame></Opacity>
+			<IsVisible type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></IsVisible>
+			<GlobalDisplayPriority type="List">
+				<KeyFrame time="0">0</KeyFrame></GlobalDisplayPriority>
+			<WindowMode type="Boolean">
+				<KeyFrame time="0">False</KeyFrame></WindowMode>
+			<GlobalPlayPolicy type="List">
+				<KeyFrame time="0">0</KeyFrame></GlobalPlayPolicy>
+			<DurationPolicy type="List">
+				<KeyFrame time="0">3</KeyFrame></DurationPolicy>
+			<Start type="Time">
+				<KeyFrame time="0">00:00:00.00</KeyFrame></Start>
+			<Duration type="Time">
+				<KeyFrame time="0">00:00:12.00</KeyFrame></Duration>
+			<RepeatPeriod type="Time">
+				<KeyFrame time="0">00:00:12.00</KeyFrame></RepeatPeriod>
+			<RepeatEnd type="Time">
+				<KeyFrame time="0">00:01:00.00</KeyFrame></RepeatEnd>
+			<InterpolationType type="List">
+				<KeyFrame time="0">1</KeyFrame></InterpolationType>
+			<EventEnable type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></EventEnable>
+			<ButtonMode type="List">
+				<KeyFrame time="0">0</KeyFrame></ButtonMode>
+			<ButtonPath1 type="File">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></ButtonPath1>
+			<ButtonPath2 type="File">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></ButtonPath2>
+			<DataLinkUse type="Boolean">
+				<KeyFrame time="0">False</KeyFrame></DataLinkUse>
+			<DataLinkDisplayOrder type="Number">
+				<KeyFrame time="0">1</KeyFrame></DataLinkDisplayOrder>
+			<DataLinkDuration type="Time">
+				<KeyFrame time="0">00:00:00.00</KeyFrame></DataLinkDuration>
+			<DataLinkSlpit type="Boolean">
+				<KeyFrame time="0">False</KeyFrame></DataLinkSlpit>
+			<DataLinkCurrent type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></DataLinkCurrent>
+			<DataLinkGroupID type="Number">
+				<KeyFrame time="0">0</KeyFrame></DataLinkGroupID>
+			<DataLinkSplitGroupID type="Number">
+				<KeyFrame time="0">0</KeyFrame></DataLinkSplitGroupID>
+			<DataLinkSplitGroupName type="String">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></DataLinkSplitGroupName>
+			<KeepLastValue type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></KeepLastValue>
+			<InnerDataLinkDescriptionFile type="File">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></InnerDataLinkDescriptionFile>
+			<DataSource type="String">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></DataSource>
+			<DataSourceCombo type="List">
+				<KeyFrame time="0">0</KeyFrame></DataSourceCombo>
+			<DataSourceSelection type="String">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></DataSourceSelection>
+			<DataSourceDefault type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></DataSourceDefault>
+			<DataSourceChangeTime type="Number">
+				<KeyFrame time="0">10</KeyFrame></DataSourceChangeTime>
+			<DataSourceSyncronizeID type="Number">
+				<KeyFrame time="0">0</KeyFrame></DataSourceSyncronizeID>
+			<EffectInName type="List">
+				<KeyFrame time="0"></KeyFrame></EffectInName>
+			<EffectInDuration type="Time">
+				<KeyFrame time="0">00:00:00.00</KeyFrame></EffectInDuration>
+			<EffectInDirection type="List">
+				<KeyFrame time="0">0</KeyFrame></EffectInDirection>
+			<EffectInRepeatPolicy type="List">
+				<KeyFrame time="0">0</KeyFrame></EffectInRepeatPolicy>
+			<EffectInRepeatPeriod type="Time">
+				<KeyFrame time="0">00:00:00.00</KeyFrame></EffectInRepeatPeriod>
+			<EffectInRepeatCount type="Number">
+				<KeyFrame time="0">1</KeyFrame></EffectInRepeatCount>
+			<EffectOutName type="List">
+				<KeyFrame time="0"></KeyFrame></EffectOutName>
+			<EffectOutDuration type="Time">
+				<KeyFrame time="0">00:00:00.00</KeyFrame></EffectOutDuration>
+			<EffectOutDirection type="List">
+				<KeyFrame time="0">0</KeyFrame></EffectOutDirection>
+			<AuthorAreaFix type="Boolean">
+				<KeyFrame time="0">False</KeyFrame></AuthorAreaFix>
+			<AuthorPreView type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></AuthorPreView>
+			<DesignCanvasVisible type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></DesignCanvasVisible>
+			<EventItems>
+			</EventItems>
+		</Element>
+		<Element type="Web" typeid="909736CD-5688-49D5-89B0-1DEB6E65962D">
+			<Name type="String">
+				<KeyFrame time="0"><![CDATA[Daily Fuel Price]]></KeyFrame></Name>
+			<WebURL type="String">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></WebURL>
+			<MotionPathPoints type="String">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></MotionPathPoints>
+			<WebAuthorizationID type="String">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></WebAuthorizationID>
+			<Layer type="Number">
+				<KeyFrame time="0">0</KeyFrame></Layer>
+			<PinnedPointNameList type="MultilineString">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></PinnedPointNameList>
+			<GlobalElement type="Boolean">
+				<KeyFrame time="0">False</KeyFrame></GlobalElement>
+			<PositionX type="RealNumber">
+				<KeyFrame time="0">620</KeyFrame></PositionX>
+			<PositionY type="RealNumber">
+				<KeyFrame time="0">480</KeyFrame></PositionY>
+			<Width type="RealNumber">
+				<KeyFrame time="0">705</KeyFrame></Width>
+			<Height type="RealNumber">
+				<KeyFrame time="0">337</KeyFrame></Height>
+			<FilePath type="File">
+				<KeyFrame time="0"><![CDATA[C:\Users\p.mangiona\Front Counter Media\Daily Fuel Price.htm]]></KeyFrame></FilePath>
+			<WebOutputMode type="List">
+				<KeyFrame time="0">0</KeyFrame></WebOutputMode>
+			<WebRefresh type="Number">
+				<KeyFrame time="0">1</KeyFrame></WebRefresh>
+			<WebRefreshNew type="Time">
+				<KeyFrame time="0">00:01:00.00</KeyFrame></WebRefreshNew>
+			<WebInputEnable type="Boolean">
+				<KeyFrame time="0">False</KeyFrame></WebInputEnable>
+			<WebScrollShow type="Boolean">
+				<KeyFrame time="0">False</KeyFrame></WebScrollShow>
+			<WebVScrollPos type="Number">
+				<KeyFrame time="0">0</KeyFrame></WebVScrollPos>
+			<WebHScrollPos type="Number">
+				<KeyFrame time="0">0</KeyFrame></WebHScrollPos>
+			<WebAuthorizationPassWd type="String">
+				<KeyFrame time="0"><![CDATA[]]></KeyFrame></WebAuthorizationPassWd>
+			<IsVisible type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></IsVisible>
+			<GlobalDisplayPriority type="List">
+				<KeyFrame time="0">0</KeyFrame></GlobalDisplayPriority>
+			<WindowMode type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></WindowMode>
+			<GlobalPlayPolicy type="List">
+				<KeyFrame time="0">0</KeyFrame></GlobalPlayPolicy>
+			<DurationPolicy type="List">
+				<KeyFrame time="0">0</KeyFrame></DurationPolicy>
+			<Start type="Time">
+				<KeyFrame time="0">00:00:00.00</KeyFrame></Start>
+			<Duration type="Time">
+				<KeyFrame time="0">00:01:00.00</KeyFrame></Duration>
+			<RepeatPeriod type="Time">
+				<KeyFrame time="0">00:00:10.00</KeyFrame></RepeatPeriod>
+			<RepeatEnd type="Time">
+				<KeyFrame time="0">00:01:00.00</KeyFrame></RepeatEnd>
+			<InterpolationType type="List">
+				<KeyFrame time="0">1</KeyFrame></InterpolationType>
+			<EventEnable type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></EventEnable>
+			<AuthorAreaFix type="Boolean">
+				<KeyFrame time="0">False</KeyFrame></AuthorAreaFix>
+			<DesignCanvasVisible type="Boolean">
+				<KeyFrame time="0">True</KeyFrame></DesignCanvasVisible>
+			<EventItems>
+			</EventItems>
+		</Element>
+	</Page>
+	<FileItems>
+		<FileItem FileID="7F5EB37F-2493-45B4-90D9-03F1EF06DF75" FileHashValue="172BC5F0-844C-CD40-F783-2FEBEE884A76-A6619671" FileSize="39656"><![CDATA[C:\Users\p.mangiona\Front Counter Media\Daily Fuel Price.htm]]></FileItem>
+		<FileItem FileID="916BEA2B-C411-4699-BC13-6D9F4B25F56E" FileHashValue="AE505465-DC38-472B-401D-B2E16A994679-D3340340" FileSize="240348"><![CDATA[C:\Users\p.mangiona\Front Counter Media\Fuel Price.jpg]]></FileItem>
+	</FileItems>
+	<DataLinkContentMeta virtual="False">
+		<Page no="0">
+			<Name><![CDATA[Page for Global Elements]]></Name>
+		</Page>
+		<Page no="1">
+			<Name><![CDATA[Page1]]></Name>
+		</Page>
+	</DataLinkContentMeta>
+</Content>
